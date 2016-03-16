@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.7290388280525804
-  brandStrength: 0.6875
-  rhythmicContrast: 0.626642850227654
-  brandColors:
-    - '#000000'
-    - '#313131'
-    - '#fefefe'
-    - '#626262'
-    - '#d0d0d0'
+  brandStrength: 0.6272401
   lightness: 0.4942656473722309
+  brandColors:
+    - '#2F214B'
+    - '#6442C6'
+    - '#F2FFFF'
+    - '#F18991'
+    - '#FA0D92'
+  rhythmicContrast: 0.626642850227654
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'Shakespeare Authorship Question: An Overview'
 favicon: null
+name: 'Shakespeare Authorship Question: An Overview'
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0
+typography_spectrum: 0.06451613
 layout_spectrum: 0.4283154
