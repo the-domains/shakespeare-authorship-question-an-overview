@@ -1,29 +1,41 @@
-name: 'Shakespeare Authorship Question: An Overview'
-favicon: null
-layout_spectrum: 0.49103
-typography_spectrum: 0
 title: 'Shakespeare Authorship Question: An Overview'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.7290388280525804
+  brandStrength: 0.6875
+  rhythmicContrast: 0.626642850227654
   brandColors:
     - '#000000'
     - '#313131'
     - '#fefefe'
     - '#626262'
     - '#d0d0d0'
-  brandStrength: 0.6875
   lightness: 0.4942656473722309
-  saturation: 0.7290388280525804
-  rhythmicContrast: 0.626642850227654
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 'Shakespeare Authorship Question: An Overview'
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 0.4283154
