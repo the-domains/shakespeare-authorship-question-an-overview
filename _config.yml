@@ -2,6 +2,7 @@ name: 'Shakespeare Authorship Question: An Overview'
 favicon: null
 layout_spectrum: 0.49103
 typography_spectrum: 0
+title: 'Shakespeare Authorship Question: An Overview'
 cta:
   domain: null
   bucket: null
